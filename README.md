@@ -11,12 +11,6 @@ Offensive Security & Web Pentesting
 
 ---
 
-### Focus
-
-- Web application penetration testing
-- Active Directory exploitation
-- Red team tooling and post-exploitation
-
 ### Certifications
 
 - CPTS
@@ -24,10 +18,6 @@ Offensive Security & Web Pentesting
 - CJCA
 - eJPTv2
 
-### Toolkit
-
-Python | Burp Suite
-
-### Writeups
+### Articles & Writeups
 
 [by3ncrypt.gitbook.io](https://by3ncrypt.gitbook.io/by3ncrypt)
