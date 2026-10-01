@@ -1,6 +1,7 @@
 ### Certifications
 
 - CPTS
+- BSCP
 - CWES
 - CJCA
 - eJPTv2
